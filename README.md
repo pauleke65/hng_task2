@@ -1,4 +1,5 @@
 # HNG Task 2
+![play_me](https://user-images.githubusercontent.com/17278452/129924971-a0fc09cf-1356-473a-b8e5-70608b1e0b1f.gif)
 
 
 ## Getting Started
