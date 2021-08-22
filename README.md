@@ -1,9 +1,9 @@
 # HNG Task 2
 
-##Version 2
+## Version 2
 ![Screen_Recordin-1629662411105 1](https://user-images.githubusercontent.com/17278452/130370019-afd3af07-b598-40dd-b1be-c8a7e402379d.gif)
 
-##Version 1
+## Version 1
 ![play_me](https://user-images.githubusercontent.com/17278452/129924971-a0fc09cf-1356-473a-b8e5-70608b1e0b1f.gif)
 
 
