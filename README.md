@@ -1,5 +1,6 @@
 # HNG Task 2
-
+Demo link: https://brave-torvalds-ec3409.netlify.app/#/
+Please use a Chrome based browser
 ## Version 2
 ![Screen_Recordin-1629662411105 1](https://user-images.githubusercontent.com/17278452/130370019-afd3af07-b598-40dd-b1be-c8a7e402379d.gif)
 
